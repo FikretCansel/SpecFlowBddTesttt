@@ -16,6 +16,8 @@ namespace SpecFlowCalculator2
         public int Subtract()
         {
             return FirstNumber - SecondNumber;
+
+
         }
     }
 }
